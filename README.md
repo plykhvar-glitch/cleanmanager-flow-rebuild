@@ -1,8 +1,8 @@
 # Growth Audit — Clean Manager
 
-**Live:** https://bterzic123.github.io/cleanmanager-flow-rebuild/
+**Live:** https://plykhvar-glitch.github.io/cleanmanager-flow-rebuild/
 
-Five ranked ideas for Clean Manager’s onboarding and paywall, plus a clickable prototype of the flow rebuilt in Clean Manager’s own design: the black screens, the blue pill, the Photos and iCloud tiles with red badges, the three story screens, the trial toggle and the payment timeline. Only the sequence changes.
+Five ranked ideas for Clean Manager’s onboarding and paywall, plus a clickable prototype of the flow rebuilt in Clean Manager’s own design: the black screens, the blue pill, the Photos and iCloud tiles with red badges, the three story screens, the trial toggle and the payment timeline. The new screens (photo access, scan, result, offer on close) are built from parts of the app people already know: the Storage card with its coloured bar, the red GB pills, the Before / After card, the red checkboxes and the two-line Delete button. The overview uses the royal blue and black cards of Clean Manager’s App Store page.
 
 Open it on a phone and the prototype runs full-screen. The toolbar above the phone switches English / French / German and light / dark, and plays a 30-second walkthrough.
 
